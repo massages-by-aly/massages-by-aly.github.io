@@ -1,27 +1,24 @@
-- name: "Our Humble Beginnings"
+- name: "Swedish"
   image: "1.jpg"
-  img-alt: "image description"
-  year: "2009-2011"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  img-alt: "Swedish"
+  text: "Swedish massage provides full-body muscle relaxation, and it can be especially helpful if you're recovering from an injury."
   side: left
 
-- name: "An Agency is Born"
+- name: "Aromatherapy"
   image: "2.jpg"
-  img-alt: "image description"
-  year: "March 2011"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  img-alt: "Aromatherapy"
+  text: "The soothing effects of aromatherapy massage can benefit a variety of conditions, including headaches, insomnia, certain digestive disorders, back pain, and even premenstrual symptoms."
   side: right
 
-- name: "Transition to Full Service"
+- name: "Hot Stone"
   image: "3.jpg"
-  img-alt: "image description"
-  year: "December 2012"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  img-alt: "Hot Stone"
+  text: "Heated, smooth stones are placed on specific points on the body.
+  The warmth of the stones can be relaxing and can loosen tight muscles and reach areas of muscle tension quickly."
   side: left
 
-- name: "Phase Two Expansion"
+- name: "Deep Tissue"
   image: "4.jpg"
-  img-alt: "image description"
-  year: "July 2014"
-  text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  img-alt: "Deep Tissue"
+  text: "This type of massage is particularly beneficial for people with chronic pain or lingering injuries that cause limited mobility. It's effective in treating repetitive stress injuries such as tennis elbow or carpal tunnel syndrome and can be helpful in reducing the symptoms of osteoarthritis."
   side: right
