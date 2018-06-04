@@ -1,16 +1,19 @@
 - name: "Swedish"
+  price: "$XX 30 mins / $YY hour"
   image: "1.jpg"
   img-alt: "Swedish"
   text: "Swedish massage provides full-body muscle relaxation, and it can be especially helpful if you're recovering from an injury."
   side: left
 
 - name: "Aromatherapy"
+  price: "$XX 30 mins / $YY hour"
   image: "2.jpg"
   img-alt: "Aromatherapy"
   text: "The soothing effects of aromatherapy massage can benefit a variety of conditions, including headaches, insomnia, certain digestive disorders, back pain, and even premenstrual symptoms."
   side: right
 
 - name: "Hot Stone"
+  price: "$XX 30 mins / $YY hour"
   image: "3.jpg"
   img-alt: "Hot Stone"
   text: "Heated, smooth stones are placed on specific points on the body.
@@ -18,6 +21,7 @@
   side: left
 
 - name: "Deep Tissue"
+  price: "$XX 30 mins / $YY hour"
   image: "4.jpg"
   img-alt: "Deep Tissue"
   text: "This type of massage is particularly beneficial for people with chronic pain or lingering injuries that cause limited mobility. It's effective in treating repetitive stress injuries such as tennis elbow or carpal tunnel syndrome and can be helpful in reducing the symptoms of osteoarthritis."
