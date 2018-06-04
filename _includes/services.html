@@ -10,34 +10,33 @@
         <div class="row">
             <div class="col-lg-12">
                 <ul class="timeline">
-                  {% for element in site.data.services %}
-                  {% if element.side == 'right' %}
+                    {% for element in site.data.services %} {% if element.side == 'right' %}
                     <li class="timeline-inverted">
-                  {% else %}
-                    <li>
-                  {% endif %}
-                        <div class="timeline-image">
-                            <img class="img-circle img-responsive" src="/assets/img/services/{{ element.image }}" alt="{{ element.img-alt }}">
-                        </div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <!-- <h4>{{ element.year }}</h4> -->
-                                <h4 class="subheading">{{ element.name }}</h4>
+                        {% else %}
+                        <li>
+                            {% endif %}
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="/assets/img/services/{{ element.image }}" alt="{{ element.img-alt }}">
                             </div>
-                            <div class="timeline-body">
-                                <p class="text-muted">{{ element.text }}</p>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>{{ element.name }}</h4>
+                                    <h4 class="subheading">{{ element.price }}</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">{{ element.text }}</p>
+                                </div>
                             </div>
-                        </div>
-                    </li>
-                  {% endfor %}
+                        </li>
+                        {% endfor %}
 
-                    <li class="timeline-inverted">
-                        <div class="timeline-image">
-                            <h4>Try
-                                <br>Them
-                                <br>All!</h4>
-                        </div>
-                    </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Ask Me
+                                    <br>About Group
+                                    <br>Rates!</h4>
+                            </div>
+                        </li>
                 </ul>
             </div>
         </div>
