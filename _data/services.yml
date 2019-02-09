@@ -1,5 +1,5 @@
 - name: "Swedish"
-  price: "$50 30 mins / $YY hour"
+  price: "$XX 30 mins / $YY hour"
   image: "1.jpg"
   img-alt: "Swedish"
   text: "Swedish massage provides full-body muscle relaxation, and it can be especially helpful if you're recovering from an injury."
